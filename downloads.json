@@ -1,6 +1,17 @@
 [
     {
+        "name": "King James Version (KJV)",
+        "key_name": "kjv_eng",
+        "language": "English",
+        "type": "bible",
+        "url": "https://wtoalabi.github.io/json/bibles/kjv.json",
+        "size": "6.1MB",
+        "version": "1"
+    },
+    {
         "name": "American Standard Version (ASV)",
+        "key_name": "asv_eng",
+        "language": "English",
         "type": "bible",
         "url": "https://wtoalabi.github.io/json/bibles/asv.json",
         "size": "6MB",
