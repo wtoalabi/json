@@ -1,0 +1,9 @@
+[
+    {
+        "name": "American Standard Version (ASV)",
+        "type": "bible",
+        "url": "https://github.com/wtoalabi/json/blob/master/bibles/asv.json",
+        "size": "6MB",
+        "version": "1"
+    }
+]
