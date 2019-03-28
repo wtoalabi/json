@@ -16,5 +16,14 @@
         "url": "https://wtoalabi.github.io/json/bibles/asv.json",
         "size": "6MB",
         "version": "1"
+    },
+	{
+        "name": "Sample",
+        "key_name": "sample_asv_eng",
+        "language": "English",
+        "type": "bible",
+        "url": "https://wtoalabi.github.io/json/bibles/sample_kjv.json",
+        "size": "1MB",
+        "version": "1"
     }
 ]
