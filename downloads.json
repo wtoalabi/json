@@ -2,6 +2,7 @@
     {
         "name": "King James Version (KJV)",
         "key_name": "kjv_eng",
+		"abreviation" : "KJV",
         "language": "English",
         "type": "bible",
         "url": "https://wtoalabi.github.io/json/bibles/kjv.json",
@@ -11,6 +12,7 @@
     {
         "name": "American Standard Version (ASV)",
         "key_name": "asv_eng",
+		"abreviation" : "ASV",
         "language": "English",
         "type": "bible",
         "url": "https://wtoalabi.github.io/json/bibles/asv.json",
@@ -19,8 +21,9 @@
     },
 	{
         "name": "Sample",
-        "key_name": "sample_asv_eng",
+        "key_name": "sample_asv_eng_1",
         "language": "English",
+		"abreviation" : "KJV 1",
         "type": "bible",
         "url": "https://wtoalabi.github.io/json/bibles/sample_kjv.json",
         "size": "0.2MB",
@@ -28,7 +31,18 @@
     },
 	{
         "name": "Sample Two",
-        "key_name": "sample_asv_eng",
+        "key_name": "sample_asv_eng_2",
+		"abreviation" : "KJV 2",
+        "language": "English",
+        "type": "bible",
+        "url": "https://wtoalabi.github.io/json/bibles/sample_kjv.json",
+        "size": "0.2MB",
+        "version": "1"
+    },
+	{
+        "name": "Sample Three",
+        "key_name": "sample_asv_eng_3",
+		"abreviation" : "KJV 3",
         "language": "English",
         "type": "bible",
         "url": "https://wtoalabi.github.io/json/bibles/sample_kjv.json",
