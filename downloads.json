@@ -48,5 +48,26 @@
         "url": "https://wtoalabi.github.io/json/bibles/sample_kjv.json",
         "size": "0.2MB",
         "version": "1"
+    },
+	{
+        "name": "Verse of the day",
+        "key_name": "verse_of_the_day",
+		"abbreviation" : "Verse",
+        "language": "English",
+        "type": "verse",
+        "url": "https://wtoalabi.github.io/json/bibles/verse_of_the_day.json",
+        "size": "1.1MB",
+        "version": "1.0"
+    },
+	{
+        "name": "Bible reading in a year",
+        "key_name": "bible_in_a_year",
+		"abbreviation" : "Bible Reading",
+        "language": "English",
+        "type": "bible_reading",
+        "url": "https://wtoalabi.github.io/json/bibles/bible_reading_in_a_year.json",
+        "size": "1.5MB",
+        "version": "1.0"
     }
+
 ]
