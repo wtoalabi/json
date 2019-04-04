@@ -57,7 +57,7 @@
         "type": "verse",
         "url": "https://wtoalabi.github.io/json/bibles/verse_of_the_day.json",
         "size": "1.1MB",
-        "version": "0.3"
+        "version": "0.1"
     },
 	{
         "name": "Bible reading in a year",
