@@ -25,7 +25,7 @@
         "language": "English",
 		"abbreviation" : "KJV 1",
         "type": "bible",
-        "url": "https://wtoalabi.github.io/json/bibles/sample_kjv.json",
+        "url": "https://wtoalabi.github.io/json/bibles/asv_eng.json",
         "size": "0.2MB",
         "version": "1"
     },
@@ -35,7 +35,7 @@
 		"abbreviation" : "KJV 2",
         "language": "English",
         "type": "bible",
-        "url": "https://wtoalabi.github.io/json/bibles/sample_kjv.json",
+        "url": "https://wtoalabi.github.io/json/bibles/asv_eng.json",
         "size": "0.2MB",
         "version": "1"
     },
@@ -45,7 +45,7 @@
 		"abbreviation" : "KJV 3",
         "language": "English",
         "type": "bible",
-        "url": "https://wtoalabi.github.io/json/bibles/sample_kjv.json",
+        "url": "https://wtoalabi.github.io/json/bibles/asv_eng.json",
         "size": "0.2MB",
         "version": "1"
     },

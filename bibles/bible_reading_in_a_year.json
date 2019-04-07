@@ -1,0 +1,14 @@
+[
+    {
+        "book": "Genesis",
+        "chapter": "1",
+        "id": 1,
+        "verse": "1"
+    },
+    {
+        "book": "Luke",
+        "chapter": "3",
+        "id": 2,
+        "verse": "2"
+    }
+]
